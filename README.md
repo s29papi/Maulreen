@@ -2,7 +2,7 @@
   <br />
   <br />
   <br />
-  <h3>Maulreen Is A Low Cost Hub Of Token Meta-Transaction Relayers.</h3>
+  <h3>Maulreen: is a low cost hub of token meta-transaction relayers.</h3>
   <br />
 </div>
 
